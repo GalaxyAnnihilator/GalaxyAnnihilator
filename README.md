@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GalaxyAnnihilator&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/GalaxyAnnihilator?style=social)
 
-## Salut, je suis Tran Minh Duong!
+## Hi, I am Tran Minh Duong or tmd for short !
 
-Non, j'arrive pas à réparer ton imprimante! Je suis programmeur, pas technicien. Welcome to my GitHub space where code meets creativity and humor.
+No I cannot fix your printer, i'm a programmer, not a technician :((
 
 ## 🚀 About Me
 
